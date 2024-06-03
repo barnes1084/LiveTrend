@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveTrend", "LiveTrend\LiveTrend.csproj", "{A236C976-D062-4A3A-9728-00CCE9F7146D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logix", "X:\GME-MH\Csharp\Development\Logix\Logix\Logix.csproj", "{F9BE4A08-C01C-4780-A68D-D3B8980D68B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A236C976-D062-4A3A-9728-00CCE9F7146D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A236C976-D062-4A3A-9728-00CCE9F7146D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A236C976-D062-4A3A-9728-00CCE9F7146D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A236C976-D062-4A3A-9728-00CCE9F7146D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BE4A08-C01C-4780-A68D-D3B8980D68B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BE4A08-C01C-4780-A68D-D3B8980D68B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BE4A08-C01C-4780-A68D-D3B8980D68B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BE4A08-C01C-4780-A68D-D3B8980D68B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6FFE220-632C-42B6-A103-77925623F4A5}
+	EndGlobalSection
+EndGlobal
